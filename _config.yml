@@ -26,9 +26,9 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
+   # href:           "//kiko.gfjaru.com/about"
   - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+   # href:           "//github.com/gfjaru/Kiko/releases"
 
 # Sass
 sass:
